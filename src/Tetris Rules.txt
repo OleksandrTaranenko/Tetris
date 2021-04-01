@@ -1,0 +1,19 @@
+At the beginning of the game the game speed is 3
+When 1 line is completed, it disappears,
+		you get 5 points and the speed of the game is increased by 1 
+		
+When 2 lines are completed, they disappear, 
+		you get 12 points and the speed of the game is decreased by 1
+		
+When 3 lines are completed, they disappear, 
+		you get 20 points and the speed of the game is decreased by 2
+		
+When 4 lines are completed, they disappear,  
+		you get 30 points and the speed of the game is decreased by 3 
+
+Keyboard control:
+space - pause
+A, Left - left
+W, Up - rotate
+D, Right - right
+S, Down - down
